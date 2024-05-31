@@ -32,9 +32,11 @@ const Home = () => {
             a developer & work that I can be proud of.
             <br />
             <br />I am fluent in <b>C++</b> and know a bit of{" "}
-            <b>Python, JAVA</b> and <b>C</b> and I'm working on a some projects in the{" "}
+            <b>Python, JAVA</b> and <b>C</b> and am working on few projects in the{" "}
             <b>MERN</b> stack.
             <br />
+            I plan to learn <b>Typescript</b> in the near future.
+            <br/>
             <br/>
             Also, I love <b>coffee</b>{" "}
             <CiCoffeeCup style={{ scale: "1.5", rotate: "15deg" }} />
